@@ -1,4 +1,4 @@
-package br.com.alura.aluraviagens.ui.activty;
+package br.com.alura.aluraviagens.ui.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
